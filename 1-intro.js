@@ -1,9 +1,9 @@
-const amount = 12;
+const amount = 12
 
-if (amount < 14) {
-  console.log("Small number");
+if (amount < 10) {
+  console.log('Small number')
 } else {
-  console.log("Large number");
+  console.log('Large number')
 }
 
-console.log(`Hey, its my first node app!!!`);
+console.log(`Hey, its my first node app!!!`)

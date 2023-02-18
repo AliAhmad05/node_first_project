@@ -1,7 +1,7 @@
-const secret = "Super Secret"; //local
-const john = "john"; //shared
-const peter = "peter"; //shared
+const secret = 'Super Secret' //local
+const john = 'john' //shared
+const peter = 'peter' //shared
 
 //console.log(module)
 
-module.exports = { john, peter };
+module.exports = { john, peter }
